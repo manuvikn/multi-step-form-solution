@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://www.manuelvictoria.net/multi-step-form](https://www.manuelvictoria.net/multi-step-form)
+- Live Site URL: [https://www.manuelvictoria.net/multi-step-form-solution](https://www.manuelvictoria.net/multi-step-form-solution)
 
 ## My process
 
